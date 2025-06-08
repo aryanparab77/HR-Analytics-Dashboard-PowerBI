@@ -43,5 +43,7 @@ This project is an interactive and insight-driven **HR Analytics Dashboard** bui
 ---
 ## 👀 Dashboard Preview
 
-![HR Analytics Dashboard](
+![HR Analytics Dashboard](https://github.com/aryanparab77/HR-Analytics-Dashboard-PowerBI/blob/main/HR_Analytics%20Screenshot.png?raw=true)
+
+---
 
