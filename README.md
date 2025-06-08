@@ -41,4 +41,7 @@ This project is an interactive and insight-driven **HR Analytics Dashboard** bui
 > The dashboard highlights that the **26–35 age group** and **Laboratory Technician** roles have the **highest attrition**. These segments may benefit from targeted retention strategies such as **career path development** or **employee engagement initiatives**.
 
 ---
+## 👀 Dashboard Preview
+
+![HR Analytics Dashboard](
 
